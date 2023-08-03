@@ -1,0 +1,110 @@
+body {
+    background-color: #90b8c7;
+    margin-left: 2cm;
+}
+h1 {
+    font-family: Arial;
+    letter-spacing: 2px;
+    color: whitesmoke;
+    background-color: #317ace;
+    text-align: center;
+    margin-top: 1%;
+}
+h2 {
+    font-family: Arial;
+    background-color: #317ace;
+    color: white;
+}
+div.grupo {
+    background-color: rgba(181, 82, 82, 0.521);
+    padding-left: 2px;
+    font-family: Arial;
+    position: relative;
+    text-align: left;
+    width: 208px;
+}
+div.grupo h3{
+    color: white;
+    background-color: #0e08c0;
+    padding-left: 4px;
+    position: relative;
+    right: 2px;
+    text-align: center;
+    width: 206px;
+}
+#oma {
+    position: relative;
+    text-align: left;
+    width: 208px;
+
+}
+#oma1 {
+    width: 30%;
+    height: auto;
+    position: relative;
+    bottom: 10.5cm;
+    left: 6cm;
+}
+#oma2 {
+    width: 25.4%;
+    height: auto;
+    position: relative;
+    bottom: 10.5cm;
+    left: 6cm;
+}
+#oma3 {
+    width: 55.9%;
+    height: auto;
+    position: relative;
+    bottom: 10.5cm;
+    left: 6cm;
+}
+#mg {
+    position: relative;
+    bottom: 10.58cm;
+}
+#mg1 {
+    width: 55.9%;
+    height: auto;
+    position: relative;
+    bottom: 16.2cm;
+    left: 6cm;
+}
+#te {
+    position: relative;
+    bottom: 16.28cm;
+}
+#te1 {
+    width: 55.9%;
+    height: auto;
+    position: relative;
+    bottom: 22cm;
+    left: 6cm;
+}
+#trayectoria {
+    position: relative;
+    bottom: 20cm;
+}
+#contacto {
+    position: relative;
+    bottom: 20cm;
+}
+.tablas th{
+    border: 2px solid #0c0959e2;
+}
+.tablas td{
+    border: 1px solid #0c0959e2;
+    font-size: larger;
+}
+#estudios th{
+    background-color: #035a3b;
+    color: white;
+    font-size: large;
+    font-family: Arial;
+}
+#estudios td{
+    background-color: #035a3c67;
+    color: white;
+    font-size: larger;
+    font-family: arial;
+}
